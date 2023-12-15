@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">LearnOpenGL</string>
+    <string-array name="array_root">
+        <item>GetStarted</item>
+        <item>Lighting</item>
+        <item>ModelLoading</item>
+        <item>AdvancedOpenGL</item>
+        <item>AdvancedLighting</item>
+        <item>PBR</item>
+        <item>InPractice</item>
+    </string-array>
+
+    <string-array name="array_get_started">
+        <item>CreateWindow</item>
+        <item>HelloWindow</item>
+        <item>HelloTriangle</item>
+        <item>Shaders</item>
+        <item>Textures</item>
+        <item>Transformations</item>
+        <item>CoordinateSystem</item>
+        <item>Camera</item>
+    </string-array>
+
+    <string-array name="array_lighting">
+        <item>Colors</item>
+        <item>BasicLighting</item>
+        <item>Materials</item>
+        <item>LightingMaps</item>
+        <item>LightCasters</item>
+        <item>MultipleLights</item>
+        <item>Review</item>
+    </string-array>
+
+    <string-array name="array_model_loading">
+        <item>Assimp</item>
+        <item>Mesh</item>
+        <item>Model</item>
+    </string-array>
+
+    <string-array name="array_advanced_opengl">
+        <item>DepthTesting</item>
+        <item>StencilTesting</item>
+        <item>Blending</item>
+        <item>FaceCulling</item>
+        <item>FrameBuffers</item>
+        <item>CubeMaps</item>
+        <item>AdvancedData</item>
+        <item>AdvancedGLSL</item>
+        <item>GeometryShader</item>
+        <item>Instancing</item>
+        <item>AntiAliasing</item>
+    </string-array>
+
+    <string-array name="array_advanced_lighting">
+        <item>AdvancedLighting</item>
+        <item>GammaCorrection</item>
+        <item>Shadows</item>
+        <item>NormalMapping</item>
+        <item>ParallaxMapping</item>
+        <item>HDR</item>
+        <item>Bloom</item>
+        <item>DeferredShading</item>
+        <item>SSAO</item>
+    </string-array>
+
+    <string-array name="array_prb">
+        <item>Theory</item>
+        <item>Lighting</item>
+        <item>IBL</item>
+    </string-array>
+
+    <string-array name="array_in_practice">
+        <item>Debugging</item>
+        <item>TextRendering</item>
+        <item>2DGame</item>
+    </string-array>
+</resources>

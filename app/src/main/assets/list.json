@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "items": [
+    {
+      "title": "HelloWindow",
+      "className": "HelloWindow"
+    },
+    {
+      "title": "HelloTriangle",
+      "className": "HelloTriangle"
+    }
+  ]
+}
